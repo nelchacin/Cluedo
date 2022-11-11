@@ -133,7 +133,7 @@ function pickMystery() {
     let weapon = selectRandom(weaponsArray)
     let room = selectRandom(roomsArray)
     return { suspect, weapon, room }
-}
+} 
 
 
 
